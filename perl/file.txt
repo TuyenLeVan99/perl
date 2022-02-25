@@ -5,4 +5,3 @@ c	cam	3	9
 d	tq	4	10	
 e	han	5	11	
 f	thai	6	12
-sdasdas
